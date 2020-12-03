@@ -7,24 +7,17 @@
 
 - Node Js
 - Express JS
+- React JS
 - MySQL
-
----
 
 ## How to use
 
-```
 $ npm install
-```
 
-```
 $ nodemon
-```
 
----
 
-## Docs API
+## Docs API POSTMAN
 
-https://documenter.getpostman.com/view/12578859/TVmP8bGE
+https://documenter.getpostman.com/view/12574221/TVmP9bi2
 
----
