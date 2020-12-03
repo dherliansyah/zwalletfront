@@ -12,9 +12,7 @@
 
 ## How to use
 
-$ npm install
-
-$ nodemon
+$ yarn
 
 
 ## Docs API POSTMAN
