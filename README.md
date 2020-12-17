@@ -25,10 +25,4 @@ Website <b>Zwallet</b> ini dibuat menggunakan <b>HTML,CSS,JAVASCRIPT,BOOTSTRAO</
 
 ### # How to use
 
-$ yarn
-
-
-### # Docs API POSTMAN
-
-https://documenter.getpostman.com/view/12574221/TVmP9bi2
-
+$ yarn start
