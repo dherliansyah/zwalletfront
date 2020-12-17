@@ -6,21 +6,21 @@
 <p align="center"><b>Apapun pengeluarannya pakai Zwallet in aja!</b></p>
 <p align="center"><b>#zwalletaja</b></p>
 
-### # Tentang
+### Tentang
 
 Aplikasi dompet digital berbasis website. Digunakan untuk keperluan transaksi apapun, yang mempermudah penyimpanan uang secara digital yang dibekali fitur transfer dan topup saldo. Zwallet versi website ini dibuat dengan React JS, Redux dan Express JS.
 
-### # Tools:
+### Tools:
 
 - Visual Studio Code
 - Postman
 
-### # Project Zwallet
+### Project Zwallet
 
 ~$ git clone https://github.com/dherliansyah/zwalletfront.git
 
 
-### # How To Use
+### How To Use
 
 URL :
 https://zwalletfront.web.app
