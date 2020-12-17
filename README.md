@@ -29,3 +29,10 @@ Username :
 
 Password :
 - padangdik
+
+## Screen Login
+![1](https://user-images.githubusercontent.com/67412768/102520473-534a1b80-40c6-11eb-9fd4-0ef56489598b.png)
+
+## Screen Dashboard
+![2](https://user-images.githubusercontent.com/67412768/102520610-75dc3480-40c6-11eb-9093-49c89886f921.png)
+
