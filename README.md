@@ -20,7 +20,7 @@ Website <b>Zwallet</b> ini dibuat menggunakan <b>HTML,CSS,JAVASCRIPT,BOOTSTRAO</
 
 ### # PROJECT ZWALLET
 
-~$ git clone https://github.com/dherliansyah/zwallet-herliansyah
+~$ git clone https://github.com/dherliansyah/zwalletfront.git
 
 
 ### # How to use
