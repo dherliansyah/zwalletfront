@@ -17,13 +17,12 @@ Aplikasi dompet digital berbasis website. Digunakan untuk keperluan transaksi ap
 
 ## Project Zwallet
 
-~$ git clone https://github.com/dherliansyah/zwalletfront.git
+- git clone https://github.com/dherliansyah/zwalletfront.git
 
 
 ## How To Use
 
-URL :
-https://zwalletfront.web.app
+URL : https://zwalletfront.web.app
 
 Username : 
 - padangdik@gmail.com
