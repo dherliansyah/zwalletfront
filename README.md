@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://zwalletfront.web.app" target="_blank">Zwallet</a>
+  <a href="https://zwalletfront.web.app">Zwallet</a>
 </h1>
 
 <p align="center"><b>Aplikasi dompet digital</b></p>
@@ -22,4 +22,10 @@ Aplikasi dompet digital berbasis website. Digunakan untuk keperluan transaksi ap
 
 ### # How to use
 
-$ yarn start
+URL :
+https://zwalletfront.web.app
+
+Username : 
+- padangdik@gmail.com
+Password :
+- padangdik
