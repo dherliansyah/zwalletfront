@@ -30,8 +30,13 @@ Username :
 Password :
 - padangdik
 
+## Screen Home
+
+<img src="https://user-images.githubusercontent.com/67412768/102520473-534a1b80-40c6-11eb-9fd4-0ef56489598b.png" width="300">
+
 ## Screen Login
-![1](https://user-images.githubusercontent.com/67412768/102520473-534a1b80-40c6-11eb-9fd4-0ef56489598b.png)
+<img src="https://user-images.githubusercontent.com/67412768/102522183-81c8f600-40c8-11eb-9712-064e08a5233d.png" width="300">
+
 
 ## Screen Dashboard
 ![2](https://user-images.githubusercontent.com/67412768/102520610-75dc3480-40c6-11eb-9093-49c89886f921.png)
