@@ -6,7 +6,7 @@
 <p align="center"><b>Apapun pengeluarannya pakai Zwallet in aja!</b></p>
 <p align="center"><b>#zwalletaja</b></p>
 
-## Tentang
+## About
 
 Aplikasi dompet digital berbasis website. Digunakan untuk keperluan transaksi apapun, yang mempermudah penyimpanan uang secara digital yang dibekali fitur transfer dan topup saldo. Zwallet versi website ini dibuat dengan React JS, Redux, Bootstrap dan Express JS.
 
