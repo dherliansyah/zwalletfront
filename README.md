@@ -8,16 +8,18 @@
 
 ## Tentang
 
-Aplikasi dompet digital berbasis website. Digunakan untuk keperluan transaksi apapun, yang mempermudah penyimpanan uang secara digital yang dibekali fitur transfer dan topup saldo. Zwallet versi website ini dibuat dengan React JS, Redux dan Express JS.
+Aplikasi dompet digital berbasis website. Digunakan untuk keperluan transaksi apapun, yang mempermudah penyimpanan uang secara digital yang dibekali fitur transfer dan topup saldo. Zwallet versi website ini dibuat dengan React JS, Redux, Bootstrap dan Express JS.
 
 ## Tools:
 
 - Visual Studio Code
 - Postman
 
-## Project Zwallet
+## How To Install
 
 - git clone https://github.com/dherliansyah/zwalletfront.git
+- cd zwalletfront
+- yarn
 
 
 ## How To Use
