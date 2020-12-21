@@ -30,9 +30,9 @@ Username :
 Password :
 - padangdik
 
-## Backend
+## Folder Backend
 
-- Backend: [Click Here](https://github.com/ayuputrii/zwallet-responsive-server.git)
+- https://github.com/ayuputrii/zwallet-responsive-server/tree/diki
 
 ## Screen Home
 
