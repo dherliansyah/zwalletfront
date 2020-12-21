@@ -32,35 +32,35 @@ Password :
 
 ## Screen Home
 
-<img src="https://user-images.githubusercontent.com/67412768/102522183-81c8f600-40c8-11eb-9712-064e08a5233d.png" >
+<img src="https://user-images.githubusercontent.com/67412768/102522183-81c8f600-40c8-11eb-9712-064e08a5233d.png" width="600">
 
 ## Screen Login
 
-<img src="https://user-images.githubusercontent.com/67412768/102520473-534a1b80-40c6-11eb-9fd4-0ef56489598b.png" >
+<img src="https://user-images.githubusercontent.com/67412768/102520473-534a1b80-40c6-11eb-9fd4-0ef56489598b.png" width="600">
 
 ## Screen Dashboard
 
-<img src="https://user-images.githubusercontent.com/67412768/102520610-75dc3480-40c6-11eb-9093-49c89886f921.png" >
+<img src="https://user-images.githubusercontent.com/67412768/102520610-75dc3480-40c6-11eb-9093-49c89886f921.png" width="600">
 
 ## Screen Search Transfer
 
-<img src="https://user-images.githubusercontent.com/67412768/102522790-47ac2400-40c9-11eb-93f6-6919a46d726a.png" width="300">
+<img src="https://user-images.githubusercontent.com/67412768/102522790-47ac2400-40c9-11eb-93f6-6919a46d726a.png" width="600">
 
 ## Screen Input Amount
 
-<img src="https://user-images.githubusercontent.com/67412768/102522892-6e6a5a80-40c9-11eb-8349-44df633a30a0.png" width="300">
+<img src="https://user-images.githubusercontent.com/67412768/102522892-6e6a5a80-40c9-11eb-8349-44df633a30a0.png" width="600">
 
 ## Screen Confirmation
 
-<img src="https://user-images.githubusercontent.com/67412768/102523040-9c4f9f00-40c9-11eb-9cee-b9012499a6b4.png" width="300">
+<img src="https://user-images.githubusercontent.com/67412768/102523040-9c4f9f00-40c9-11eb-9cee-b9012499a6b4.png" width="600">
 
 ## Screen Notification Transfer
 
-<img src="https://user-images.githubusercontent.com/67412768/102523163-c3a66c00-40c9-11eb-9bd4-cb427cc85083.png" width="300">
+<img src="https://user-images.githubusercontent.com/67412768/102523163-c3a66c00-40c9-11eb-9bd4-cb427cc85083.png" width="600">
 
 ## Screen Profile
 
-<img src="https://user-images.githubusercontent.com/67412768/102523269-dde04a00-40c9-11eb-8a33-b716af5d725d.png" width="300">
+<img src="https://user-images.githubusercontent.com/67412768/102523269-dde04a00-40c9-11eb-8a33-b716af5d725d.png" width="600">
 
 
 
