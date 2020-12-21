@@ -13,7 +13,6 @@ Aplikasi dompet digital berbasis website. Digunakan untuk keperluan transaksi ap
 ## Tools:
 
 - Visual Studio Code
-- Postman
 
 ## How To Install
 
